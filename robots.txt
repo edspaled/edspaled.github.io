@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edspaled.github.io/sitemap.html.gz
+Sitemap: https://edspaled.github.io/app/sitemap.html.gz
+Sitemap: https://edspaled.github.io/assets/sitemap.html.gz
+Sitemap: https://edspaled.github.io/css/sitemap.html.gz
+Sitemap: https://edspaled.github.io/includes/sitemap.html.gz
+Sitemap: https://edspaled.github.io/item/sitemap.html.gz
+Sitemap: https://edspaled.github.io/src/sitemap.html.gz
